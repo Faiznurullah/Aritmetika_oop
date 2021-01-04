@@ -80,5 +80,5 @@ $mtk = new mtk;
 //
 
 
-echo "Penampung Method";
+
 ?>
